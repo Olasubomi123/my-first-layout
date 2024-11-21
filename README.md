@@ -3,5 +3,6 @@ git init
 git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/Olasubomi123/my-first-layout.git
-git push -u origin master
+git branch -M main
+git push -u origin main
 
